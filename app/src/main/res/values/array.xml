@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="search_types">
+        <item>title</item>
+        <item>publisher</item>
+        <item>person</item>
+    </string-array>
+</resources>

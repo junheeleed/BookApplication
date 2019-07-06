@@ -1,0 +1,176 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.databinding:adapters:3.4.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/f20d6028e0ff785369261216749f2637/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.4.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/9cc81910c59eb9383d4c613313e82a07/AndroidManifest.xml:17:1-24:12
+MERGED from [org.koin:koin-android:2.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/880720587b6e712adbd7b510e3b7aaf4/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/5d088e546d393f659e98633fe1a3a1c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/26223c0a4eff1db5e984705359e373aa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/80a1e0726fdf3c0013763a9202c88f82/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/b7bc78006bdbd1a67306e228bf11918b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/ec0daa9bf6adcc6291b3d03d90a05b1c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/29b744edaddc6d1ea0c7fb31d986c279/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/f8e75005019480011816f368bbc25a62/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/09d19727a90b7eec794eb3cea1ae8412/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/ca6f26e3f59985032c87f79775adc8bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/489ef20ab56ebfcb0f2f23a0a1288ee1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/8862ac2615a40d66b1215f592ee5af5d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/11e172a351aefe8ee7a10007de149d1d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/1221f876c7d79e88e108c5eca2243ddd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/43b6bd68a49f5f9d9d9243612ae3a9f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/d82d8ec28f8ba7c69dbb18cbe0c51ae0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/10444ef96ed5a6f9de20cb3df4a69e30/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/55b8424ff005929cb8c7b00e7aa6004c/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/bc3b9392a11b1e4f0bab315e3646cd38/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/139a7cc6b6c55357d7dba13d7b22010f/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/ac7b21af92473cf5b66d203d6b3f5e2f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/e1c651641702d72402d1fa995b9651ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/30752c628206ce82869dfb73b63d2b13/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/31c54e0c12d1e0454d6acc973a2dccee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/ad6f78b0ecaeff4e7633e2ee9e6ed7a2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/9f1720d8a7707bba1c10d55d6d55b533/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/d8d5ae9d9e6ad246ca674ae253cf1030/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/c2188f48b02ade5089f63209751d4bd3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/4eb1d44ef2043efaff8237afa7d643b4/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml:3:11-48
+		INJECTED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml:7:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/80a1e0726fdf3c0013763a9202c88f82/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/80a1e0726fdf3c0013763a9202c88f82/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/55b8424ff005929cb8c7b00e7aa6004c/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/55b8424ff005929cb8c7b00e7aa6004c/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/139a7cc6b6c55357d7dba13d7b22010f/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/139a7cc6b6c55357d7dba13d7b22010f/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/55b8424ff005929cb8c7b00e7aa6004c/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml:13:13-39
+	android:label
+		ADDED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml:11:13-45
+	android:roundIcon
+		ADDED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml:12:13-58
+	android:icon
+		ADDED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml:10:13-47
+	android:allowBackup
+		ADDED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml:9:13-39
+	android:theme
+		ADDED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml:14:13-44
+	android:name
+		ADDED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml:8:13-47
+activity#com.example.bookapplication.ui.books.BooksActivity
+ADDED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml:15:19-84
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.example.bookapplication.ui.detail.BookDetailActivity
+ADDED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml:22:9-92
+	android:name
+		ADDED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml:22:19-90
+uses-sdk
+INJECTED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.4.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/f20d6028e0ff785369261216749f2637/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.4.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/f20d6028e0ff785369261216749f2637/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.4.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/9cc81910c59eb9383d4c613313e82a07/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.4.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/9cc81910c59eb9383d4c613313e82a07/AndroidManifest.xml:22:5-44
+MERGED from [org.koin:koin-android:2.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/880720587b6e712adbd7b510e3b7aaf4/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android:2.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/880720587b6e712adbd7b510e3b7aaf4/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/5d088e546d393f659e98633fe1a3a1c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/5d088e546d393f659e98633fe1a3a1c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/26223c0a4eff1db5e984705359e373aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/26223c0a4eff1db5e984705359e373aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/80a1e0726fdf3c0013763a9202c88f82/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/80a1e0726fdf3c0013763a9202c88f82/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/b7bc78006bdbd1a67306e228bf11918b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/b7bc78006bdbd1a67306e228bf11918b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/ec0daa9bf6adcc6291b3d03d90a05b1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/ec0daa9bf6adcc6291b3d03d90a05b1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/29b744edaddc6d1ea0c7fb31d986c279/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/29b744edaddc6d1ea0c7fb31d986c279/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/f8e75005019480011816f368bbc25a62/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/f8e75005019480011816f368bbc25a62/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/09d19727a90b7eec794eb3cea1ae8412/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/09d19727a90b7eec794eb3cea1ae8412/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/ca6f26e3f59985032c87f79775adc8bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/ca6f26e3f59985032c87f79775adc8bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/489ef20ab56ebfcb0f2f23a0a1288ee1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/489ef20ab56ebfcb0f2f23a0a1288ee1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/8862ac2615a40d66b1215f592ee5af5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/8862ac2615a40d66b1215f592ee5af5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/11e172a351aefe8ee7a10007de149d1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/11e172a351aefe8ee7a10007de149d1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/1221f876c7d79e88e108c5eca2243ddd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/1221f876c7d79e88e108c5eca2243ddd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/43b6bd68a49f5f9d9d9243612ae3a9f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/43b6bd68a49f5f9d9d9243612ae3a9f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/d82d8ec28f8ba7c69dbb18cbe0c51ae0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/d82d8ec28f8ba7c69dbb18cbe0c51ae0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/10444ef96ed5a6f9de20cb3df4a69e30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/10444ef96ed5a6f9de20cb3df4a69e30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/55b8424ff005929cb8c7b00e7aa6004c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/55b8424ff005929cb8c7b00e7aa6004c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/bc3b9392a11b1e4f0bab315e3646cd38/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/bc3b9392a11b1e4f0bab315e3646cd38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/139a7cc6b6c55357d7dba13d7b22010f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/139a7cc6b6c55357d7dba13d7b22010f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/ac7b21af92473cf5b66d203d6b3f5e2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/ac7b21af92473cf5b66d203d6b3f5e2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/e1c651641702d72402d1fa995b9651ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/e1c651641702d72402d1fa995b9651ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/30752c628206ce82869dfb73b63d2b13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/30752c628206ce82869dfb73b63d2b13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/31c54e0c12d1e0454d6acc973a2dccee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/31c54e0c12d1e0454d6acc973a2dccee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/ad6f78b0ecaeff4e7633e2ee9e6ed7a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/ad6f78b0ecaeff4e7633e2ee9e6ed7a2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/9f1720d8a7707bba1c10d55d6d55b533/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/9f1720d8a7707bba1c10d55d6d55b533/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/d8d5ae9d9e6ad246ca674ae253cf1030/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/d8d5ae9d9e6ad246ca674ae253cf1030/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/c2188f48b02ade5089f63209751d4bd3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/c2188f48b02ade5089f63209751d4bd3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/4eb1d44ef2043efaff8237afa7d643b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ijunhui/.gradle/caches/transforms-2/files-2.1/4eb1d44ef2043efaff8237afa7d643b4/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/AndroidManifest.xml

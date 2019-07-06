@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_book_detail.xml",
+        "source": "/Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/res/layout/fragment_book_detail.xml"
+    },
+    {
+        "merged": "/Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_book_detail.xml",
+        "source": "/Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/res/layout/activity_book_detail.xml"
+    },
+    {
+        "merged": "/Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/recycler_book_item.xml",
+        "source": "/Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/res/layout/recycler_book_item.xml"
+    },
+    {
+        "merged": "/Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_book.xml",
+        "source": "/Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/res/layout/activity_book.xml"
+    },
+    {
+        "merged": "/Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_books.xml",
+        "source": "/Users/ijunhui/AndroidStudioProjects/test/BookApplication/app/src/main/res/layout/fragment_books.xml"
+    }
+]
